@@ -1,0 +1,7 @@
+﻿  rld.cpp
+D:\$PROGRAMMING\$Visual Studio C++ INFO1156\Projects\Project 3\File_Converter\rld\rld.cpp(101,34): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 172 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  rld.vcxproj -> D:\$PROGRAMMING\$Visual Studio C++ INFO1156\Projects\Project 3\File_Converter\x64\Release\rld.exe
