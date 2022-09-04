@@ -9,7 +9,7 @@ using namespace std;
 
 string versionNumber = "1.0.1";
 
-//Functions headers. Test...
+//Functions headers.
 void output_help();
 
 void text_mode(int argc, char* argv[], bool switchIncluded);
